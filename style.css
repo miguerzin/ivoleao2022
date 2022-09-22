@@ -2,6 +2,9 @@ body {
     background-color: #141414;
 }
 
+#mordekas {
+    width: 60%;
+}
 
 h1 {
     font-size: 60px; text-align: center; color: #F0E6D2
